@@ -1,3 +1,6 @@
+Modified for Bootstrap 5. Upgraded to FontAwesome6, but only icons contained in FontAwesome 5.6.3 are showing. To fix, just edit bootstrap-iconpicker.bundle.min.js and add the icon names in.
+
+
 # jQuery Menu Editor 1.1.0
 # >>> [DEMO](https://davicotico.github.io/jQuery-Menu-Editor/)
 ### Features

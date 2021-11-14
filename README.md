@@ -1,3 +1,6 @@
+Modified for Bootstrap 5. Upgraded to FontAwesome6, but only icons contained in FontAwesome 5.6.3 are showing. To fix, just edit bootstrap-iconpicker.bundle.min.js and add the icon names in. The demo below is not this version. Download and run test.html for a demo.
+
+
 # jQuery Menu Editor 1.1.0
 # >>> [DEMO](https://davicotico.github.io/jQuery-Menu-Editor/)
 ### Features
@@ -18,6 +21,7 @@ This project is based on jQuery-Sortable-lists (v1.4.0) http://camohub.github.io
 * jQuery >= 3.x
 * Fontawesome 5.3.1
 * Bootstrap Iconpicker 1.10.0
+* jQuery-Sortable-lists 2 (with mobile support)
 
 ## How to use
 ### Include the Css and scripts
@@ -32,6 +36,7 @@ This project is based on jQuery-Sortable-lists (v1.4.0) http://camohub.github.io
 <script type="text/javascript" src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.bundle.min.js"></script>
 <script type="text/javascript" src="bootstrap-iconpicker/js/iconset/fontawesome5-3-1.min.js"></script>
 <script type="text/javascript" src="bootstrap-iconpicker/js/bootstrap-iconpicker.min.js"></script>
+<script type="text/javascript" src="jquery-sortable-lists-mobile.js"></script>
 <script type="text/javascript" src="jquery-menu-editor.min.js"></script>
 ```
 
